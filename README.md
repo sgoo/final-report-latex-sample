@@ -1,4 +1,8 @@
 final-report-latex-sample
 =========================
 
-Final report latex sample setup
+Get LaTeX tools from here.
+
+https://github.com/SublimeText/LaTeXTools
+
+
