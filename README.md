@@ -2,22 +2,19 @@ final-report-latex-sample
 =========================
 
 To use Sublime
-You need the LaTeX tools plug-in
+You need the LaTeXTools plug-in
 
-Install Package Control
-https://sublime.wbond.net/installation
-(restart Sublime)
+1. If you don't already have the Package Control plugin get it from here https://sublime.wbond.net/installation (install instrunctions are on page)
+2. Restart Sublime
 
-use package control to install LaTeX tools
-Ctrl + Shift + P
-type "Package Control"
-select "Install Package"
-
-search for "LaTeX Tools"
-wait for it to install and restart sublime
+3. use package control to install LaTeX tools
+  a. Ctrl + Shift + P
+  b. Type "Package Control"
+  c. Select "Install Package"
+  d. type "LaTeX Tools"
+  e. wait for it to install and restart sublime
 
 
-Follow the instructions https://github.com/SublimeText/LaTeXTools
-to setup the PDF viewer for your system.
+4. Follow the instructions https://github.com/SublimeText/LaTeXTools to ensure you have the right PDF Viewer and LaTeX pages for your OS.
 
 
